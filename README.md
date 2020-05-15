@@ -36,7 +36,7 @@
     
   ## Contributing
   
-  Sandrah Morande
+  Bethany Polovitz
   
   ## Tests
   
